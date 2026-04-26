@@ -1,1 +1,2 @@
 I try to add new line with this text
+Thi is the third try to add new line with text, on another line
