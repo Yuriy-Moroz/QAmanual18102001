@@ -1,0 +1,80 @@
+body{
+    background-image: url('../Photo/fon.jpg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.name-main{
+    color: #c37207;
+    text-align: center;
+}
+.explanation{
+    color: #ffd104;
+    text-align: right;
+}
+.book{
+    background-image: url('../Photo/vall.jpg');
+    margin-left: 330px;
+    margin-right: 30px;
+}
+.title-book{ text-align: center;}
+.text-book{ 
+    text-align: justify;
+    font-size: 25px;
+ }
+ .author{
+      background-image: url('../Photo/vall.jpg');
+    margin-left: 30px;
+    margin-right: 430px;
+    margin-top: 60px;
+ }
+ .title-author{
+     text-align: center;
+
+ }
+ .text-author{
+    text-align: justify;
+    font-size: 25px;
+ }
+ .arrow-link-left {
+    text-decoration: none;
+    color: lab(100% 0.01 -0.01);
+    font-weight: bold;
+    display: inline-flex;
+    align-items: center;
+    
+}
+.arrow-link-right {
+    text-decoration: none;
+    color: lab(100% 0.01 -0.01);
+    font-weight: bold;
+    display: inline-flex;
+    align-items: center;
+    
+}
+.navi{
+    text-align: center;
+    font-size: 30px;
+}
+.gallery{
+ background-image: url('../Photo/vall.jpg');  
+ margin-left: 500px;
+    margin-right: 400px;
+    color: #ffd104;
+    text-align: right;
+}
+.icon{ 
+    background-image: url('../Photo/vall.jpg'); 
+}
+.container {
+    display: flex; 
+    gap: 100px;  
+    font-size: 26px;  
+    color: #9b0c0c;
+}
+.box {
+    
+    padding:20px;
+    flex: 2;      
+}
